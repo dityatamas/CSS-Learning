@@ -72,9 +72,10 @@ a:hover{
 }
 
 .intro{
-  margin-left: 25em;
-  margin-right: 25em;
+  margin: auto;
+  width: 50%;
   padding-bottom: 5%;
+  line-height: 1.5;
 }
 
 .mt{
