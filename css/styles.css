@@ -1,0 +1,153 @@
+/*Tag Selectors*/
+body{
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+}
+
+h1{
+  font-family: 'Indie Flower', cursive;
+}
+
+h2{
+  font-family: 'Caveat', cursive;
+  position: relative;
+  font-size: 250%;
+}
+
+h4{
+
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 0.5em;
+  border-color: grey;
+  width: 4em;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover{
+  cursor: pointer;
+  color: white;
+}
+
+/*Class Selectors*/
+.top-container{
+  color: white;
+  background-color: #3282b8;
+  position: relative;
+  padding-top: 30px;
+}
+
+.middle-container{
+  background-color: #bbe1fa;
+  position: relative;
+  padding-top: 6.5%;
+}
+
+.bottom-container{
+  background-color: #3282b8;
+  padding: 50px 0 20px;
+  position: relative;
+}
+
+.h1top{
+    margin: 0 auto 0 auto;
+    font-size: 700.5%;
+}
+
+.h2top{
+    bottom: 1.5em;
+}
+
+.greet3{
+  position: relative;
+  bottom: 5em;
+  font-weight: normal;
+}
+
+.intro{
+  margin-left: 25em;
+  margin-right: 25em;
+  padding-bottom: 5%;
+}
+
+.mt{
+  width: 60%;
+  vertical-align: middle;
+}
+
+.clt{
+  width: 10.375%;
+  position: absolute;
+  right: 30%;
+  }
+
+.clb{
+  position: absolute;
+  width: 12.5%;
+  bottom: 56%;
+  left: 20%;
+}
+
+.clbb{
+  position: absolute;
+  width: 12.5%;
+  bottom: 60%;
+  right: 18%;
+}
+
+.PP{
+  width: 15%;
+}
+
+.logo1{
+  width: 25%;
+  float: left;
+  margin-right: 4%;
+}
+
+.logo2{
+  width: 25%;
+  float: right;
+}
+
+.OE{
+  line-height: 2;
+}
+
+.oe1{
+  width: 50%;
+  margin: 3em auto;
+  text-align: left;
+}
+
+.WE{
+  line-height: 2;
+}
+
+.we1{
+  width: 50%;
+  margin: 3em auto;
+  text-align: left;
+}
+
+.working-places{
+  margin-top: 1px;
+  margin bottom: 1px;
+}
+
+.footer-link{
+  color: #0f4c75;
+  margin: 1em 1em;
+}
+
+.cpyrght{
+  color: white;
+  font-size: 12px;
+}
